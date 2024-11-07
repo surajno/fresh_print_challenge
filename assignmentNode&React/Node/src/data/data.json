@@ -1,0 +1,68 @@
+[
+  {
+    "code": "A001",
+    "size": "M",
+    "quantity": 15,
+    "price": 1050
+  },
+  {
+    "code": "A001",
+    "size": "L",
+    "quantity": 10,
+    "price": 1150
+  },
+  {
+    "code": "A002",
+    "size": "M",
+    "quantity": 20,
+    "price": 900
+  },
+  {
+    "code": "A002",
+    "size": "S",
+    "quantity": 18,
+    "price": 870
+  },
+  {
+    "code": "A003",
+    "size": "M",
+    "quantity": 8,
+    "price": 950
+  },
+  {
+    "code": "A004",
+    "size": "L",
+    "quantity": 12,
+    "price": 1200
+  },
+  {
+    "code": "A005",
+    "size": "M",
+    "quantity": 30,
+    "price": 750
+  },
+  {
+    "code": "A006",
+    "size": "S",
+    "quantity": 25,
+    "price": 700
+  },
+  {
+    "code": "A007",
+    "size": "L",
+    "quantity": 10,
+    "price": 1300
+  },
+  {
+    "code": "A008",
+    "size": "M",
+    "quantity": 22,
+    "price": 800
+  },
+  {
+    "code": "A009",
+    "size": "M",
+    "quantity": 10,
+    "price": 1100
+  }
+]
